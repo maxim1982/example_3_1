@@ -1,0 +1,83 @@
+{
+	"Thailand":[
+		{
+		 "sea" : "True", 
+		 "schengen": "False", 
+		 "average_temperature": 30, 
+		 "currency_rate": 1.8,
+		 "room_rate":100.10
+		}
+],
+	"Hungary":[
+		{
+		 "sea" : "False", 
+		 "schengen": "True", 
+		 "average_temperature": 10, 
+		 "currency_rate": 0.3,
+		 "room_rate":130.20
+		}
+],
+	"Germany":[
+		{
+		 "sea" : "True", 
+		 "schengen": "True", 
+		 "average_temperature": 5, 
+		 "currency_rate": 80,
+		 "room_rate":40.10
+		}
+],
+	"Japan":[
+		{
+		 "sea" : "True", 
+		 "schengen": "False", 
+		 "average_temperature": 15, 
+		 "currency_rate": 0.61,
+		 "room_rate":1000.70
+		}
+],
+	"Austria":[
+		{
+		 "sea" :"False",
+	     "schengen":"True",
+	     "average_temperature":20,
+	     "currency_rate":80,
+	     "room_rate":30.40
+		 }
+],
+	"France":[
+		{
+		 "sea" :"True",
+	     "schengen":"True",
+	     "average_temperature":30,
+	     "currency_rate":80,
+	     "room_rate":15.0
+		}
+],
+    "Sweden":[
+		{
+		 "sea" :"True",
+	     "schengen":"True",
+	     "average_temperature":30,
+	     "currency_rate":80,
+	     "room_rate":20.90
+		 }
+],
+	"Tunis": [
+		{
+		 "sea" :"True",
+	     "schengen":"False",
+	     "average_temperature":30,
+	     "currency_rate":0.44,
+	     "room_rate":1500.80
+		}
+],
+	"Israel":[
+		{
+		 "sea" :"True",
+	     "schengen":"False",
+	     "average_temperature":30,
+	     "currency_rate":0.94,
+	     "room_rate":1200.60
+		 }
+]
+}
